@@ -1,0 +1,33 @@
+POE-Component-IMDB version 0.01
+===============================
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+			POE => 0.38,
+			'POE::Session' => 1.2123,
+			'POE::Component::Client::HTTP' => 0.79,
+			'URI::Escape' => 3.28,
+			'HTTP::Request' => 1.40,
+			'HTML::TreeBuilder' => 3.13,
+			'Data::Dumper' => 2.121,
+
+COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.0.0 or,
+at your option, any later version of Perl 5 you may have available.
+
+

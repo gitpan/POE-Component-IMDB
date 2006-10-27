@@ -1,0 +1,6 @@
+Revision history for Perl extension POE::Component::IMDB.
+
+0.01  Fri Oct 27 03:30:41 2006
+	- original version; created by h2xs 1.23 with options
+		-AX -b 5.6.1 -n POE::Component::IMDB
+

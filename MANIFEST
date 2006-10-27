@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POE-Component-IMDB.t
+lib/POE/Component/IMDB.pm
